@@ -1,0 +1,2 @@
+Aprendendo a criar o versionamento.
+Agora estou enviando esse arquivo no meu github.
